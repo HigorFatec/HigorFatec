@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Higor Machado 👋
 
 - 🔭 Hoje trabalho como Analista de TI
-- 🌱 Estou estudando Analise e Desenvolvimento de Sistemas
+- 🎓 Bacharelado em Análise e Desenvolvimento de Sistemas
 - 😄 Pronouns: ele/dele
 
 ## INFORMACOES
