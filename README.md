@@ -3,6 +3,7 @@
 - 🔭 Hoje trabalho como Analista de TI
 - 🎓 Bacharelado em Análise e Desenvolvimento de Sistemas
 - 😄 Pronouns: ele/dele
+- 🌍 Localizado em Ribeirão Preto-SP, com alcance global
 
 ## INFORMACOES
 
