@@ -5,6 +5,7 @@
 - 🎓 Pós Graduado em Ciências de Dados - Faculdade Libano
 - 😄 Pronouns: ele/dele
 - 🌍 Localizado em Ribeirão Preto-SP, com alcance global
+- <a href="https://www.higormachado.com.br/">https://www.higormachado.com.br/</a>
 
 ## INFORMACOES
 
