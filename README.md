@@ -1,7 +1,8 @@
 ### Olá! Eu sou o Higor Machado 👋
 
 - 🔭 Hoje trabalho como Analista de TI
-- 🎓 Bacharelado em Análise e Desenvolvimento de Sistemas
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas - Fatec Ribeirão Preto
+- 🎓 Pós Graduado em Ciências de Dados - Faculdade Libano
 - 😄 Pronouns: ele/dele
 - 🌍 Localizado em Ribeirão Preto-SP, com alcance global
 
